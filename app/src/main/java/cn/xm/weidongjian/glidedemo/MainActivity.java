@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
         findViewById(R.id.button).setOnClickListener(this);
         findViewById(R.id.button2).setOnClickListener(this);
         findViewById(R.id.button3).setOnClickListener(this);
+
         findViewById(R.id.button4).setOnClickListener(this);
         imageView = (ImageView) findViewById(R.id.imageView);
 
